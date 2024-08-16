@@ -3,7 +3,6 @@
 I'm a recent graduate from the Lighthouse Labs web development program
 
 I'm a full-stack developer with a slight preference for frontend (I love shiny things 🌟)
-)
 
 Coding is fun!
 

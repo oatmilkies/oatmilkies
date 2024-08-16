@@ -2,7 +2,7 @@
 
 I'm a recent graduate from the Lighthouse Labs web development program
 
-I'm a full-stack developer with a slight preference for frontend (I love shiny things ![image](https://github.com/user-attachments/assets/36100172-0ef3-41de-b812-516b11b91b2d)
+I'm a full-stack developer with a slight preference for frontend (I love shiny things)
 )
 
 Coding is fun!

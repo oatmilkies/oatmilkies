@@ -2,12 +2,12 @@
 
 I'm a recent graduate from the Lighthouse Labs web development program
 
-I'm a full-stack developer with a slight preference for frontend (I love shiny things)
+I'm a full-stack developer with a slight preference for frontend (I love shiny things )
 )
 
 Coding is fun!
 
-## My skills
+## Languages and tools
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,nodejs,express,js,html,css,react,bootstrap,materialui)](https://skillicons.dev)
 

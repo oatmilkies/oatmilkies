@@ -1,4 +1,4 @@
-# Hi, I’m Lani!
+# 🧃: Hi, I’m Lani!
 
 I'm a recent graduate from the Lighthouse Labs web development program
 

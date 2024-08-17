@@ -1,8 +1,8 @@
 # Hi, I’m Lani!
 
-I'm a recent graduate of the Lighthouse Labs web development program
+A recent graduate of the Lighthouse Labs web development program
 
-I'm a full stack developer with a slight preference for frontend (I love shiny things 🌟)
+A full stack developer with a slight preference for frontend (I love shiny things 🌟)
 
 Continuously learning
 
